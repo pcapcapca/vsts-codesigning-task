@@ -1,10 +1,10 @@
 {
     "manifestVersion": 1,
-    "id": "codesigning",
-    "name": "Code Signing",
+    "id": "codesigningglob",
+    "name": "Code Signing with Globs",
     "version": "0.0.1",
     "public": false,
-    "publisher": "stefankert",
+    "publisher": "banqup",
     "targets": [
         {
             "id": "Microsoft.VisualStudio.Services"
