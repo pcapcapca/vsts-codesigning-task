@@ -2,8 +2,8 @@
     "manifestVersion": 1,
     "id": "codesigning",
     "name": "Code Signing",
-    "version": "0.0.0",
-    "public": true,
+    "version": "0.0.1",
+    "public": false,
     "publisher": "stefankert",
     "targets": [
         {
