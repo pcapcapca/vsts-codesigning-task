@@ -12,7 +12,7 @@
     ],
     "description": "Task that gives the user the ability to codesign assemblies and applications.",
     "categories": [
-        "Build and release"
+        "Azure Pipelines"
     ],
     "galleryFlags": [],
     "tags": [
